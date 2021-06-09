@@ -8,7 +8,7 @@ function Inicio() {
         <div>
           <div className="row justify-content-around">
              <div className="col-9">
-                <img src={portada}/>
+                <img src={portada} className="imagenPortada"/>
              </div>
 
              <div className="col-3">
