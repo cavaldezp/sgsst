@@ -15,7 +15,7 @@ function Routes() {
       <Route exact path="/opciones" component={Opciones} />
       <Route exact path="/registroincidentes" component={RegistroIncidentes} />
       <Route exact path="/registroempleadores" component={RegistroEmpleadores} />
-      <Route exact path="/registroempleadoss" component={RegistroEmpleados} />
+      <Route exact path="/registroempleados" component={RegistroEmpleados} />
       <Route exact path="/consultas" component={Consultas} />
       <Route exact path="/reportes" component={Reportes} />
     </div>
