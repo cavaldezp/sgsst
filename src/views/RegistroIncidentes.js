@@ -41,7 +41,7 @@ function RegistroIncidentes() {
     {/* Segundo formulario */}
         <form className="Form col-md-6 col-lg-6 col-xl-6">
                  <div style={{margin: "10px"}}>
-                    <label className="form-label col-12" style={{textAlign:'center'}}>Grabadad del accidente</label>
+                    <label className="form-label col-12" style={{textAlign:'center'}}>Gravedad del accidente</label>
                     <input  className="form-text col-12" type="text"  placeholder="Describa la grabedad" ></input>
                 </div>
                 <div style={{margin: "10px"}}>
